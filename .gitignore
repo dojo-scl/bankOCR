@@ -1,0 +1,17 @@
+*.suo
+*.user
+*.psess
+*.vsp
+[Dd]ebug/
+[Rr]elease/
+x64/
+./[Bb]uild/
+[Bb]in/
+[Oo]bj/
+_ReSharper*/
+TestResults/
+*.DS_Store
+*.userprefs
+gen-csharp/
+*.vscode/
+*.ps1
