@@ -10,8 +10,3 @@ You work for a bank, which has recently purchased an ingenious machine to assist
 Each entry is 4 lines long, and each line has 27 characters. The first 3 lines of each entry contain an account number written using pipes and underscores, and the fourth line is blank. Each account number should have 9 digits, all of which should be in the range 0-9. A normal file contains around 500 entries.
 
 Your first task is to write a program that can take this file and parse it into actual account numbers.
-
-# Stage 2 - new requirements
-
- * A number is fizz if it is divisible by 3 or if it has a 3 in it
- * A number is buzz if it is divisible by 5 or if it has a 5 in it
